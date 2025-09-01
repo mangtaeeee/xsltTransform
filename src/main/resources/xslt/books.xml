@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<books>
+    <book>
+        <title>책제목</title>
+        <author>김망태</author>
+    </book>
+    <book>
+        <title>새로운 책 제목</title>
+        <author>망태 작가</author>
+    </book>
+</books>
